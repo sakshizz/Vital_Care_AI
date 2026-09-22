@@ -14,7 +14,7 @@ VitalCare AI is a **Streamlit app** powered by Google Gemini that analyzes medic
 ## 🚀 Installation & Run
 Clone the repo and run locally:
 ```bash
-git clone https://github.com/Yugal003/Viital_Care_AI.git
-cd Viital_Care_AI
+git clone https://github.com/sakshizz/Vital_Care_AI.git
+cd Vital_Care_AI
 pip install -r requirements.txt
 streamlit run app.py
